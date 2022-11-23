@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "typeID": 101,
+    "type": 1,
+    "clear": 0
+  },
+  {
+    "id": 3,
+    "typeID": 301,
+    "type": 3,
+    "clear": 0
+  },
+  {
+    "id": 4,
+    "typeID": 302,
+    "type": 3,
+    "clear": 0
+  },
+  {
+    "id": 5,
+    "typeID": 303,
+    "type": 3,
+    "clear": 0
+  },
+  {
+    "id": 6,
+    "typeID": 401,
+    "type": 4,
+    "clear": 0
+  }
+]

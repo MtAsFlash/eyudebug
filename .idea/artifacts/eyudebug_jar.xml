@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="eyudebug:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/eyudebug_jar</output-path>
+    <root id="archive" name="eyudebug.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
